@@ -28,24 +28,21 @@ If you use this work, please cite:
 
 ---
 
-## 🛠️ Code Release
+## Code Release
 
-The code and pretrained models will be released **soon**. Planned resources include:
+The code and pretrained models will be released **soon**.
 
 ---
 
-## 📬 Contact
+## Contact
 
 For questions, please contact:
-📧 [i.ntinou@qmul.ac.uk](mailto:i.ntinou@qmul.ac.uk)
+[i.ntinou@qmul.ac.uk](mailto:i.ntinou@qmul.ac.uk)
 
 ---
 
-## 🌍 Acknowledgments
+## Acknowledgments
 
 This work was partly funded by the **European Union** under the Horizon Europe grant agreement **101135800 (RAIDO)**.
 
-```
 
-Do you want me to also add a **“Teaser Figure” placeholder section** (so later you can drop in a diagram of your pipeline), or keep this README text-only?
-```
